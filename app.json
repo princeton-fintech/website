@@ -1,0 +1,7 @@
+{
+  "name": "Princeton FinTech",
+  "description": "Princeton FinTech club website.",
+  "image": "heroku/python",
+  "repository": "https://github.com/princeton-fintech/website"
+  "keywords": ["python"]
+}
